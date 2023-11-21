@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gautam</h1>
-<h3 align="center">I'm a Final year engineering undergraduate from Motilala Nehru National Institute of Techology,Allahabad</h3>
+<h3 align="center">I'm a Final year engineering undergraduate student from Motilal Nehru National Institute of Techology,Allahabad</h3>
 
 - 🔭 I’m currently working on **Anomaly Detection in Credit Card Transactions**
 
